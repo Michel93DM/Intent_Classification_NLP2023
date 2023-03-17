@@ -8,4 +8,4 @@ by Clément TORRES and Michel DAHER MANSOUR.
 
 In this  repository, you'll find the code of the three models we tested. 
 
-Each jupyter file contain one complete procedure(raging from preprocessing the datasets to training and validation to finally predicting on new dataset)
+Each jupyter file contains one complete procedure(raging from preprocessing the datasets to training and validation to finally predicting on new dataset)
