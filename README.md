@@ -2,6 +2,7 @@
 ## Intent and dialogue act Classification Project
 
 This project was carried in the context of the NLP course 2023.
+
 by Clément TORRES and Michel DAHER MANSOUR.
 
 # Content
